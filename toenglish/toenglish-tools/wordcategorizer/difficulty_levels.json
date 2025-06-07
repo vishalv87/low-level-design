@@ -1,0 +1,16 @@
+{
+	"difficulty_levels": [
+		{
+			"level": 1,
+			"label": "Easy"
+		},
+		{
+			"level": 2,
+			"label": "Medium"
+		},
+		{
+			"level": 3,
+			"label": "Hard"
+		}
+	]
+}

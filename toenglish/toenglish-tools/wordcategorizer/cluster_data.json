@@ -1,0 +1,147 @@
+{
+	"clusters": [
+		{
+			"cluster_id": 0,
+			"primary_name": "Objects, Materials & The Physical World",
+			"alternate_names": [
+				"Everyday Things & Their Properties",
+				"Touch, Taste & Tangible Items",
+				"Real-World Vocabulary: Food, Tools & Textures",
+				"Nouns You Can See, Touch & Use",
+				"Body, Food & Materials",
+				"Substances, Objects & Sensory Details",
+				"Things Around Us: From Body to Kitchen",
+				"Describing the Physical World",
+				"Concrete Vocabulary for Real-Life Contexts"
+			]
+		},
+		{
+			"cluster_id": 1,
+			"primary_name": "Numbers, Measurement & Quantity",
+			"alternate_names": [
+				"Maths, Size & Value",
+				"Data, Time & Units",
+				"Shapes, Amounts & Calculation",
+				"Counting, Measuring & Comparing",
+				"Quantitative Concepts & Units",
+				"Numerical & Statistical Vocabulary",
+				"Dimensions, Rates & Calculations",
+				"Mathematical and Geometric Terms",
+				"Economics, Time & Measurement Vocabulary"
+			]
+		},
+		{
+			"cluster_id": 2,
+			"primary_name": "Academic & Abstract Concepts",
+			"alternate_names": [
+				"Thinking, Learning & Communication",
+				"Formal Actions & Ideas",
+				"Intellectual Skills & Tasks",
+				"Critical Thinking & Discourse",
+				"Reasoning, Analysis & Performance",
+				"Academic Vocabulary for Success",
+				"Ideas, Arguments & Achievements",
+				"Mind & Method",
+				"Thoughts in Action"
+			]
+		},
+		{
+			"cluster_id": 3,
+			"primary_name": "Actions & State Changes",
+			"alternate_names": [
+				"Phrasal Verbs in Everyday Life",
+				"Dynamic Verbs & Expressions",
+				"Practical English Actions",
+				"Life Transitions & Reactions",
+				"Everyday Action Verbs",
+				"Real-Life Phrases in Motion",
+				"Common Phrasal Verbs & Commands"
+			]
+		},
+		{
+			"cluster_id": 4,
+			"primary_name": "Everyday Speech & Expression",
+			"alternate_names": [
+				"Fluency Words for Speaking & Writing",
+				"Common Adverbs & Expressions",
+				"Modifiers, Opinions & Discourse Markers",
+				"Fluent English: How We Speak & Connect Ideas",
+				"Communication Clarity & Tone",
+				"Intensifiers, Qualifiers & Connectors",
+				"Expressing Thoughts, Feelings & Certainty",
+				"Functional Words for Flow & Nuance",
+				"Style, Stance & Spoken Rhythm"
+			]
+		},
+		{
+			"cluster_id": 5,
+			"primary_name": "Human Experience & Society",
+			"alternate_names": [
+				"Life, People & Events",
+				"Social and Personal Realms",
+				"Human Life & Culture",
+				"Human Life, Relationships, Events, and Social Experiences"
+			]
+		},
+		{
+			"cluster_id": 6,
+			"primary_name": "Feelings & Emotions",
+			"alternate_names": [
+				"Personality & Mood",
+				"Expressing Emotions & Attitudes",
+				"Human Reactions & Behavior",
+				"Emotional & Social Vocabulary",
+				"Inner Life: Emotions, Traits & Mental States",
+				"Psychological & Social Expressions",
+				"Personalities, Feelings & Responses",
+				"Emotional Intelligence Vocabulary",
+				"Mind, Mood & Meaning"
+			]
+		},
+		{
+			"cluster_id": 7,
+			"primary_name": "Places, Travel & Time",
+			"alternate_names": [
+				"Environments & Journeys",
+				"Everywhere & Anytime",
+				"The World Around Us",
+				"Travel, Weather & Locations",
+				"Geography, Movement & Daily Life",
+				"Time, Space & Setting",
+				"Locations, Directions & Destinations",
+				"Living Spaces & Environments",
+				"Seasons, Places & Global Contexts"
+			]
+		},
+		{
+			"cluster_id": 8,
+			"primary_name": "Work, Education & Society",
+			"alternate_names": [
+				"Professions, Politics & Public Life",
+				"Careers, Institutions & Communication",
+				"Business, Media & Government",
+				"Academic, Professional & Civic Vocabulary",
+				"Professional & Institutional Terms",
+				"Social Structures & Career Language",
+				"Jobs, Law, Media & Education",
+				"Workplace, Governance & Information",
+				"The Organized World: Systems & Roles"
+			]
+		},
+		{
+			"cluster_id": 9,
+			"primary_name": "Everyday English Essentials",
+			"alternate_names": [
+				"General Purpose Vocabulary",
+				"Common Words for Daily Use",
+				"Basic Communication & Utility Words",
+				"Core English for Interaction",
+				"Functional English Toolkit",
+				"Interactive Language Elements",
+				"Essential Verbs & Actions",
+				"Practical Phrases & Utilities",
+				"English in Use: Requests, Actions & Interaction"
+			]
+		}
+	]
+}
